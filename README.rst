@@ -30,7 +30,7 @@ Installation
    or Internal SD CARD(mnt/sdcard) there should be a folder named ``educational content``.
 #. In ``educational content`` folder there should be three more folders named ``Html`` ``Pdf``  and ``Video``.
 #. In the Html folder insert Html pages, in Pdf folder insert Pdf files and
-   in Video folder insert their video files.
+   in Video folder insert video files.
 
 
 
